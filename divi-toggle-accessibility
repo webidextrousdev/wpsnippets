@@ -1,4 +1,5 @@
 // Accessibility for Divi's toggle module. Add as a Code module at the end of the page or globally in the footer.
+// Source: https://www.intelliwolf.com/divi-toggle-module-web-accessible/
 <script type="text/javascript" async>
 jQuery(document).ready(function($) {
   $(".et_pb_toggle").each(function(i) {
